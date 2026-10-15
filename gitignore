@@ -1,0 +1,10 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
+
+# data (re-created by the notebook / downloaded separately)
+insurance.csv
+insurance*.csv
